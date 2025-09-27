@@ -1,0 +1,323 @@
+{
+  "ten_thuc_don": "Thực Đơn Quán Việt",
+  "ngay_cap_nhat": "2025-09-25",
+  "danh_muc": [
+    {
+      "ten_danh_muc": "Món Chính",
+      "danh_sach_mon": [
+        {
+          "id_mon": "PHO_BO",
+          "ten_mon": "Phở Bò",
+          "mo_ta": "Sợi phở mềm dai, nước dùng đậm đà ninh từ xương bò, ăn kèm các loại thịt bò tươi ngon.",
+          "gia_co_ban": 55000,
+          "thoi_gian_chuan_bi": "25-35 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn loại thịt (Mặc định: Tái)",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Tái", "gia_them": 0 },
+                { "ten": "Nạm", "gia_them": 0 },
+                { "ten": "Tái Nạm", "gia_them": 5000 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Món ăn kèm",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Quẩy", "gia_them": 5000 },
+                { "ten": "Trứng trần", "gia_them": 5000 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_mon": "BUN_CHA_HN",
+          "ten_mon": "Bún Chả Hà Nội",
+          "mo_ta": "Chả nướng than hoa thơm lừng ăn kèm bún, rau sống và nước mắm chua ngọt đặc trưng.",
+          "gia_co_ban": 50000,
+          "thoi_gian_chuan_bi": "30-40 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn suất ăn",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Suất nhỏ", "gia_them": 0 },
+                { "ten": "Suất đặc biệt", "gia_them": 15000 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Món ăn kèm",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Nem rán", "gia_them": 10000 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_mon": "COM_TAM_SBC",
+          "ten_mon": "Cơm Tấm Sườn Bì Chả",
+          "mo_ta": "Đĩa cơm tấm đầy đủ với sườn nướng, bì, chả trứng hấp, ăn kèm nước mắm và đồ chua.",
+          "gia_co_ban": 60000,
+          "thoi_gian_chuan_bi": "20-30 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn loại sườn",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Sườn cốt lết", "gia_them": 0 },
+                { "ten": "Sườn non (+10k)", "gia_them": 10000 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Món ăn kèm",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Trứng ốp la", "gia_them": 7000 },
+                { "ten": "Canh rong biển", "gia_them": 10000 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_mon": "MI_QUANG_ECH",
+          "ten_mon": "Mì Quảng Ếch",
+          "mo_ta": "Sợi mì vàng óng đặc trưng của Quảng Nam, ăn cùng thịt ếch đồng dai ngọt và nước dùng đậm vị.",
+          "gia_co_ban": 65000,
+          "thoi_gian_chuan_bi": "30-40 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn độ cay",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Ít cay", "gia_them": 0 },
+                { "ten": "Cay vừa", "gia_them": 0 },
+                { "ten": "Siêu cay", "gia_them": 0 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Món ăn kèm",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Bánh đa nướng", "gia_them": 5000 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_mon": "HU_TIEU_NV",
+          "ten_mon": "Hủ Tiếu Nam Vang",
+          "mo_ta": "Tô hủ tiếu thập cẩm với tôm, thịt bằm, trứng cút, lòng heo và nước lèo thanh ngọt.",
+          "gia_co_ban": 50000,
+          "thoi_gian_chuan_bi": "25-35 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn loại hủ tiếu",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Hủ tiếu nước", "gia_them": 0 },
+                { "ten": "Hủ tiếu khô", "gia_them": 0 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Thêm topping",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Thêm tôm", "gia_them": 15000 },
+                { "ten": "Trứng cút (2 trứng)", "gia_them": 5000 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_mon": "PIZZA_SEAFOOD",
+          "ten_mon": "Pizza Hải Sản",
+          "mo_ta": "Pizza đế giòn với sốt cà chua, phô mai mozzarella và topping hải sản tươi ngon.",
+          "gia_co_ban": 150000,
+          "thoi_gian_chuan_bi": "45-55 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn loại đế",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Đế dày", "gia_them": 0 },
+                { "ten": "Đế mỏng", "gia_them": 0 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Chọn loại viền",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Viền phô mai", "gia_them": 20000 },
+                { "ten": "Viền xúc xích", "gia_them": 20000 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_danh_muc": "Món Ăn Sáng / Ăn Vặt",
+      "danh_sach_mon": [
+        {
+          "id_mon": "BANH_MI_HQ",
+          "ten_mon": "Bánh Mì Heo Quay",
+          "mo_ta": "Ổ bánh mì giòn rụm kẹp thịt heo quay da giòn, dưa leo, đồ chua và nước sốt đậm đà.",
+          "gia_co_ban": 25000,
+          "thoi_gian_chuan_bi": "15-20 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn độ cay",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Không cay", "gia_them": 0 },
+                { "ten": "Cay vừa", "gia_them": 0 },
+                { "ten": "Cay nhiều", "gia_them": 0 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Thành phần miễn phí",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Pate", "gia_them": 0 },
+                { "ten": "Chả", "gia_them": 0 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_mon": "BO_NE",
+          "ten_mon": "Bò Né",
+          "mo_ta": "Thịt bò mềm, trứng ốp la, pate, xúc xích trên chảo gang nóng hổi, ăn kèm bánh mì.",
+          "gia_co_ban": 70000,
+          "thoi_gian_chuan_bi": "20-30 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn kiểu trứng",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Trứng ốp la", "gia_them": 0 },
+                { "ten": "Trứng khuấy", "gia_them": 0 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Thêm",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Thêm 1 ổ bánh mì", "gia_them": 5000 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_mon": "GA_RAN",
+          "ten_mon": "Gà Rán Sốt Cay",
+          "mo_ta": "Gà rán giòn rụm được phủ lớp sốt cay ngọt kiểu Hàn Quốc hoặc sốt me chua ngọt.",
+          "gia_co_ban": 99000,
+          "thoi_gian_chuan_bi": "35-45 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn loại sốt",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Sốt cay Hàn Quốc", "gia_them": 0 },
+                { "ten": "Sốt me", "gia_them": 0 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Món ăn kèm",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Khoai tây chiên", "gia_them": 20000 },
+                { "ten": "Salad", "gia_them": 15000 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_mon": "CHAN_GA_THAI",
+          "ten_mon": "Chân Gà Sốt Thái",
+          "mo_ta": "Chân gà rút xương giòn sần sật, trộn với xoài xanh và sốt Thái chua cay đậm đà.",
+          "gia_co_ban": 85000,
+          "thoi_gian_chuan_bi": "40-50 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn độ cay",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Cay vừa", "gia_them": 0 },
+                { "ten": "Cay nồng", "gia_them": 0 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Món ăn kèm",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Khoai lang chiên", "gia_them": 20000 },
+                { "ten": "Nước ngọt", "gia_them": 15000 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ten_danh_muc": "Đồ Uống",
+      "danh_sach_mon": [
+        {
+          "id_mon": "TRA_SUA_TCDD",
+          "ten_mon": "Trà Sữa Trân Châu Đường Đen",
+          "mo_ta": "Trà sữa béo ngậy kết hợp với trân châu đường đen dai mềm, thơm ngọt.",
+          "gia_co_ban": 45000,
+          "thoi_gian_chuan_bi": "10-15 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn mức đường",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Không đường", "gia_them": 0 },
+                { "ten": "Ít đường (30%)", "gia_them": 0 },
+                { "ten": "Đường vừa (50%)", "gia_them": 0 },
+                { "ten": "Ngọt nhiều (100%)", "gia_them": 0 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Thêm topping",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Trân châu trắng", "gia_them": 5000 },
+                { "ten": "Pudding trứng", "gia_them": 7000 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_mon": "SINH_TO_BO",
+          "ten_mon": "Sinh Tố Bơ",
+          "mo_ta": "Bơ sáp tươi xay mịn cùng sữa tươi và sữa đặc, tạo nên ly sinh tố sánh mịn, béo ngậy.",
+          "gia_co_ban": 35000,
+          "thoi_gian_chuan_bi": "10-15 phút",
+          "danh_muc_tuy_chon": [
+            {
+              "ten_danh_muc": "Chọn độ ngọt",
+              "loai_lua_chon": "Một lựa chọn",
+              "tuy_chon": [
+                { "ten": "Ít ngọt", "gia_them": 0 },
+                { "ten": "Ngọt vừa", "gia_them": 0 }
+              ]
+            },
+            {
+              "ten_danh_muc": "Thành phần miễn phí",
+              "loai_lua_chon": "Nhiều lựa chọn",
+              "tuy_chon": [
+                { "ten": "Thêm sữa đặc", "gia_them": 0 },
+                { "ten": "Thêm sữa chua", "gia_them": 0 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
